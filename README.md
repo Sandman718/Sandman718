@@ -1,4 +1,4 @@
-[![MasterHead](https://internetofthingsagenda.techtarget.com/rms/onlineimages/code_g1195673150.jpg)]
+![MasterHead](https://internetofthingsagenda.techtarget.com/rms/onlineimages/code_g1195673150.jpg)
 
 <h1 align="center">Hi 👋, I'm Dennis Sanders</h1>
 <h3 align="center">Aspiring Full Stack Developer/DevOps Engineer</h3>
