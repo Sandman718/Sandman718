@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dennis Sanders</h1>
 <h3 align="center">Aspiring Full Stack Developer/DevOps Engineer</h3>
 <img align="right" alt="coding" width="480" src="https://blog.sciencemuseum.org.uk/wp-content/uploads/2019/07/giphy-2.gif"> 
-<img align="right" alt="coding" width="480" src="https://thumbs.gfycat.com/WebbedAgedHorsechestnutleafminer-size_restricted.gif">
+<img align="left" alt="coding" width="480" src="https://thumbs.gfycat.com/WebbedAgedHorsechestnutleafminer-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandman718&label=Profile%20views&color=0e75b6&style=flat" alt="sandman718" /> </p>
 
